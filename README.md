@@ -3,6 +3,8 @@ Test code for ThreeJS composer paired with React.
 
 To run the app, install dependencies using `npm install` and then use `npm start` command to start the app.
 
+## Test details
+
 The main test code looks like this: 
 
 ```
