@@ -5,7 +5,7 @@ To run the app, install dependencies using `npm install` and then use `npm start
 
 ## Test details
 
-The main test code looks like this: 
+The main test code is located in `/src/ComposerTest.tsx` and the main part looks following: 
 
 ```
     /** ======================================= *
