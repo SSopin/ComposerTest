@@ -75,7 +75,7 @@ export function ComposerTest({ canvas }: Props) {
 
   // Uncomment one of the lines below, refresh the page and see the result. (One at a time)
   const composerAndTarget = createComposer(renderer); // Fast
-  // useMemo(() => createComposer(renderer), []); // Slow
+  // const composerAndTarget = useMemo(() => createComposer(renderer), []); // Slow
 
   /** ======================================= *
    * ====== ↑ COMPOSER TEST IS HERE ↑  ====== *
